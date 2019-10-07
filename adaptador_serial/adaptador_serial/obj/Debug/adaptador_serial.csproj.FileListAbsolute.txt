@@ -1,0 +1,9 @@
+C:\Users\cocad\Desktop\adaptador_serial\adaptador_serial\bin\Debug\adaptador_serial.exe.config
+C:\Users\cocad\Desktop\adaptador_serial\adaptador_serial\bin\Debug\adaptador_serial.exe
+C:\Users\cocad\Desktop\adaptador_serial\adaptador_serial\bin\Debug\adaptador_serial.pdb
+C:\Users\cocad\Desktop\adaptador_serial\adaptador_serial\obj\Debug\adaptador_serial.csprojResolveAssemblyReference.cache
+C:\Users\cocad\Desktop\adaptador_serial\adaptador_serial\obj\Debug\adaptador_serial.Form1.resources
+C:\Users\cocad\Desktop\adaptador_serial\adaptador_serial\obj\Debug\adaptador_serial.Properties.Resources.resources
+C:\Users\cocad\Desktop\adaptador_serial\adaptador_serial\obj\Debug\adaptador_serial.csproj.GenerateResource.Cache
+C:\Users\cocad\Desktop\adaptador_serial\adaptador_serial\obj\Debug\adaptador_serial.exe
+C:\Users\cocad\Desktop\adaptador_serial\adaptador_serial\obj\Debug\adaptador_serial.pdb
